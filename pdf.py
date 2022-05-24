@@ -28,13 +28,9 @@ data = {
 }
 
 
-
-pdf = FPDF()
-pdf.add_page()
-
-def printPageHeader(playlist_title, playlist_url, date):
+def printPageHeader(pdf, playlist_title, playlist_url, date):
     pdf.set_font('Helvetica', 'B', 20)
-    pdf.multi_cell(0, 8, playlist_title, align = 'L')
+    pdf.multi_cell(0, 8, playlist_title.encode("ascii", "ignore").decode(), align = 'L')
     pdf.ln()
 
     pdf.set_font('Helvetica', 'U', 10)
@@ -47,7 +43,7 @@ def printPageHeader(playlist_title, playlist_url, date):
     pdf.cell(0, 6, 'Stand: '+date)
     pdf.ln(15)
 
-def printTableHeading():
+def printTableHeading(pdf):
     pdf.set_font('Helvetica', 'B', 10)
     pdf.set_fill_color(200, 200, 200)
     pdf.cell(115, 7, "Videotitel", 1, fill = True)
@@ -56,7 +52,7 @@ def printTableHeading():
     pdf.cell(25, 7, "Audio", 1, fill = True)
     pdf.ln()
 
-def printTableRow(name, online, video, audio):
+def printTableRow(pdf, name, online, video, audio):
     pdf.set_font('Helvetica', '', 10)
     # pdf.cell(110, 7, name, border = 'LR')
     # pdf.cell(25, 7, online, border = 'LR')
@@ -68,7 +64,7 @@ def printTableRow(name, online, video, audio):
     pdf.cell(25, 7, audio, 1)
     pdf.ln()
 
-def printLastRow():
+def printLastRow(pdf):
     pdf.cell(115, 0, '', border = 'BLR')
     pdf.cell(25, 0, '', border = 'BLR')
     pdf.cell(25, 0, '', border = 'BLR')
@@ -77,13 +73,16 @@ def printLastRow():
 
 
 def printStatistics(file_name, date, playlist_title, playlist_url, hits):
-    printPageHeader(playlist_title, playlist_url, date)
-    printTableHeading()
+    pdf = FPDF()
+    pdf.add_page()
+    printPageHeader(pdf, playlist_title, playlist_url, date)
+    printTableHeading(pdf)
 
     for i in sorted(hits.keys(), reverse=True):
-        printTableRow(hits[i]['name'], str(hits[i]['hits_online']), str(hits[i]['hits_video']), str(hits[i]['hits_audio']))
-
-    pdf.output(file_name+'.pdf')
+        printTableRow(pdf, hits[i]['name'], str(hits[i]['hits_online']), str(hits[i]['hits_video']), str(hits[i]['hits_audio']))
+    pdf.close()
+    pdf.output((file_name.encode("ascii", "ignore").decode())+'.pdf')
+    print("   ...exported")
 
 
 

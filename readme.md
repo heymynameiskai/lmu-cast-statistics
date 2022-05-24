@@ -58,7 +58,7 @@ _Gets metadata of playlist by playlist id._
 
 **Request**
 ```http
-GET 'https://cast.itunes.uni-muenchen.de/api/v1/playlists/<playlist_id>'
+GET "https://cast.itunes.uni-muenchen.de/api/v1/playlists/<playlist_id>"
 ```
 
 **Response**
@@ -72,6 +72,9 @@ GET 'https://cast.itunes.uni-muenchen.de/api/v1/playlists/<playlist_id>'
   }
 }
 ```
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
@@ -84,7 +87,7 @@ _Returns number of hits by format for each video in playlist._
 
 **Request**
 ```http
-GET 'https://cast.itunes.uni-muenchen.de/api/v1/playlist_statistics/<playlist_id>'
+GET "https://cast.itunes.uni-muenchen.de/api/v1/playlist_statistics/<playlist_id>"
 ```
 
 **Response**
@@ -103,3 +106,6 @@ GET 'https://cast.itunes.uni-muenchen.de/api/v1/playlist_statistics/<playlist_id
   }
 }
 ```
+&nbsp;
+&nbsp;
+&nbsp;

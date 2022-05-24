@@ -18,10 +18,10 @@ GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
 ```
 
 **Response**
-```python
+```json
 {
-  'status': <http_status_code>,
-  'content': {
+  "status": <http_status_code>,
+  "content": {
       0: {
           'id': <playlist_id>,
           'name': <playlist_name>
@@ -44,7 +44,7 @@ GET <api_root>/playlists
 ```
 
 **Response**
-```json
+```yaml
 {
   'status': <http_status_code>,
   'content': {

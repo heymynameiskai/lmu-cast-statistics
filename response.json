@@ -1,0 +1,3707 @@
+[{
+    "id": "KOQc5Np5UQ",
+    "playlist_id": 9533,
+    "name": "Grundkurs Öffentliches Recht II (Prof. Dr. Kaufhold) SoSe 2022",
+    "protection": "protected",
+    "user_id": 20373,
+    "producers": [{
+      "id": 59761,
+      "email": "sbj@lmu.de",
+      "password": null,
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "role": "owner",
+      "created_at": "2021-08-16T11:04:18.572Z",
+      "updated_at": "2022-05-23T15:45:20.049Z",
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03000000"
+    }],
+    "owner": {
+      "id": 20373,
+      "uniqueid": "75EDF32082136A5E@lmu.de",
+      "email": "carina.stier@campus.lmu.de",
+      "firstname": "Carina",
+      "lastname": "Stier",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/KOQc5Np5UQ/quicktime.rss",
+    "embed_url": "/vod/playlists/KOQc5Np5UQ.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Carina Stier",
+    "iTunes_owner_name": "Carina Stier",
+    "iTunes_email": "carina.stier@campus.lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+      "export_format_id": "online",
+      "url": "/playlists/KOQc5Np5UQ/online.rss",
+      "available": true,
+      "fa_icon_name": "fa-youtube-play",
+      "name": null
+    }],
+    "updated_at": "2022-05-04T07:15:52.948Z",
+    "created_at": "2022-04-27T07:18:29.087Z",
+    "from_lmucast": false,
+    "clips_count": 9
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "uhqmHrr0gb",
+    "playlist_id": 9515,
+    "name": "Kapitalgesellschaftsrecht II",
+    "protection": "protected",
+    "user_id": 16546,
+    "producers": [{
+      "id": 59761,
+      "email": "sbj@lmu.de",
+      "password": null,
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "role": "owner",
+      "created_at": "2021-08-16T11:04:18.572Z",
+      "updated_at": "2022-05-23T15:45:20.049Z",
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03000000"
+    }],
+    "owner": {
+      "id": 16546,
+      "uniqueid": "E8D8EDC9DAFDFEED@lmu.de",
+      "email": "elke.kaelin@lmu.de",
+      "firstname": "Elke",
+      "lastname": "Kälin",
+      "faculties": [
+        "03",
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/uhqmHrr0gb/quicktime.rss",
+    "embed_url": "/vod/playlists/uhqmHrr0gb.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Elke Kälin",
+    "iTunes_owner_name": "Elke Kälin",
+    "iTunes_email": "elke.kaelin@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/uhqmHrr0gb/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/uhqmHrr0gb/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/uhqmHrr0gb/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-26T11:36:59.612Z",
+    "created_at": "2022-04-26T11:36:28.619Z",
+    "from_lmucast": false,
+    "clips_count": 4
+  },
+  {
+    "id": "rP0Z8pqxN8",
+    "playlist_id": 9478,
+    "name": "Privatrecht Vertiefungsübung | Björn-Hendrik Otte (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 60419,
+      "email": "b.otte@lmu.de",
+      "password": null,
+      "firstname": "Björn-hendrik",
+      "lastname": "Otte",
+      "role": "owner",
+      "created_at": "2021-10-07T08:12:53.903Z",
+      "updated_at": "2022-05-23T10:00:06.453Z",
+      "uniqueid": "29424D5E8F932CAB@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03000100"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/rP0Z8pqxN8/quicktime.rss",
+    "embed_url": "/vod/playlists/rP0Z8pqxN8.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/rP0Z8pqxN8/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/rP0Z8pqxN8/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/rP0Z8pqxN8/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T12:51:22.359Z",
+    "created_at": "2022-04-21T12:48:46.639Z",
+    "from_lmucast": false,
+    "clips_count": 4
+  },
+  {
+    "id": "T1oVJBowoF",
+    "playlist_id": 9477,
+    "name": "Handelsrecht | Prof. Dr. Mathias Habersack (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/T1oVJBowoF/file/intro?d=1650789030",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/T1oVJBowoF/quicktime.rss",
+    "embed_url": "/vod/playlists/T1oVJBowoF.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/T1oVJBowoF/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/T1oVJBowoF/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/T1oVJBowoF/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-24T08:30:30.252Z",
+    "created_at": "2022-04-21T12:45:01.242Z",
+    "from_lmucast": false,
+    "clips_count": 4
+  },
+  {
+    "id": "fHhDMuHqLL",
+    "playlist_id": 9476,
+    "name": "Verwaltungsrecht IV (Baurecht) | Prof. Dr. Klaus-Dieter Drüen (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 40220,
+      "email": "christoph.horstmann@lmu.de",
+      "password": null,
+      "firstname": "Christoph",
+      "lastname": "Horstmann",
+      "role": "owner",
+      "created_at": "2020-07-03T14:50:22.808Z",
+      "updated_at": "2022-04-28T08:29:50.379Z",
+      "uniqueid": "2053DB205106F8D1@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03090500"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/fHhDMuHqLL/file/intro?d=1650547061",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/fHhDMuHqLL/quicktime.rss",
+    "embed_url": "/vod/playlists/fHhDMuHqLL.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/fHhDMuHqLL/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/fHhDMuHqLL/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/fHhDMuHqLL/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:17:41.359Z",
+    "created_at": "2022-04-21T12:43:42.179Z",
+    "from_lmucast": false,
+    "clips_count": 4
+  },
+  {
+    "id": "HiYiUN7i5D",
+    "playlist_id": 9475,
+    "name": "Verwaltungsrecht III (Polizei- und Sicherheitsrecht) | Dr. Martin Heidebach (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 6385,
+      "email": "martin.heidebach@lmu.de",
+      "password": null,
+      "firstname": "Martin",
+      "lastname": "Heidebach",
+      "role": "owner",
+      "created_at": "2018-03-07T10:07:39.511Z",
+      "updated_at": "2022-04-22T13:57:37.446Z",
+      "uniqueid": "7F4E77A76C21F166@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03090000"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/HiYiUN7i5D/file/intro?d=1650547104",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/HiYiUN7i5D/quicktime.rss",
+    "embed_url": "/vod/playlists/HiYiUN7i5D.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/HiYiUN7i5D/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/HiYiUN7i5D/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/HiYiUN7i5D/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:18:24.450Z",
+    "created_at": "2022-04-21T12:42:23.447Z",
+    "from_lmucast": false,
+    "clips_count": 5
+  },
+  {
+    "id": "EsflD5TvTE",
+    "playlist_id": 9474,
+    "name": "Verwaltungsrecht II (Kommunalrecht) | Prof. Dr. Martin Burgi (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/EsflD5TvTE/file/intro?d=1650547117",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/EsflD5TvTE/quicktime.rss",
+    "embed_url": "/vod/playlists/EsflD5TvTE.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/EsflD5TvTE/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/EsflD5TvTE/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/EsflD5TvTE/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:18:37.940Z",
+    "created_at": "2022-04-21T12:41:06.084Z",
+    "from_lmucast": false,
+    "clips_count": 4
+  },
+  {
+    "id": "8gf2lxFd0Z",
+    "playlist_id": 9473,
+    "name": "Grundkurs Strafrecht II (L–Z) | Prof. Dr. Helmut Satzger (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/8gf2lxFd0Z/file/intro?d=1650547137",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/8gf2lxFd0Z/quicktime.rss",
+    "embed_url": "/vod/playlists/8gf2lxFd0Z.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/8gf2lxFd0Z/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/8gf2lxFd0Z/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/8gf2lxFd0Z/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:18:57.603Z",
+    "created_at": "2022-04-21T12:39:32.876Z",
+    "from_lmucast": false,
+    "clips_count": 11
+  },
+  {
+    "id": "H8SJUu3cCJ",
+    "playlist_id": 9472,
+    "name": "Grundkurs Strafrecht II (A–K) | Prof. Dr. Frank Saliger (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/H8SJUu3cCJ/file/intro?d=1650547157",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/H8SJUu3cCJ/quicktime.rss",
+    "embed_url": "/vod/playlists/H8SJUu3cCJ.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/H8SJUu3cCJ/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/H8SJUu3cCJ/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/H8SJUu3cCJ/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:19:17.087Z",
+    "created_at": "2022-04-21T12:38:18.053Z",
+    "from_lmucast": false,
+    "clips_count": 11
+  },
+  {
+    "id": "MHfeQY7h0U",
+    "playlist_id": 9471,
+    "name": "Grundkurs Zivilrecht II (H–N) | Prof. Dr. Johannes Platschek (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/MHfeQY7h0U/file/intro?d=1650547171",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/MHfeQY7h0U/quicktime.rss",
+    "embed_url": "/vod/playlists/MHfeQY7h0U.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/MHfeQY7h0U/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/MHfeQY7h0U/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/MHfeQY7h0U/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:19:31.256Z",
+    "created_at": "2022-04-21T12:36:23.441Z",
+    "from_lmucast": false,
+    "clips_count": 13
+  },
+  {
+    "id": "8A4qM6Yrnh",
+    "playlist_id": 9470,
+    "name": "Grundkurs Zivilrecht II (A–G) | Prof. Dr. Thomas Ackermann (SoSe 2022)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/8A4qM6Yrnh/file/intro?d=1650547182",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/8A4qM6Yrnh/quicktime.rss",
+    "embed_url": "/vod/playlists/8A4qM6Yrnh.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/8A4qM6Yrnh/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/8A4qM6Yrnh/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/8A4qM6Yrnh/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:19:42.929Z",
+    "created_at": "2022-04-21T12:35:14.789Z",
+    "from_lmucast": false,
+    "clips_count": 13
+  },
+  {
+    "id": "APy75CWUJy",
+    "playlist_id": 9448,
+    "name": "Hörsaaltest",
+    "protection": "private",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/APy75CWUJy/quicktime.rss",
+    "embed_url": "/vod/playlists/APy75CWUJy.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/APy75CWUJy/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/APy75CWUJy/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/APy75CWUJy/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-13T11:03:43.562Z",
+    "created_at": "2022-04-13T11:03:43.562Z",
+    "from_lmucast": false,
+    "clips_count": 8
+  },
+  {
+    "id": "xuzyQXsQC4",
+    "playlist_id": 9431,
+    "name": "Examinatorium Strafrecht ",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 19439,
+      "email": "victoria.ibold@lmu.de",
+      "password": null,
+      "firstname": "Victoria",
+      "lastname": "Ibold",
+      "role": "owner",
+      "created_at": "2020-03-20T09:19:41.235Z",
+      "updated_at": "2022-04-26T12:55:33.273Z",
+      "uniqueid": "5FE4611CCECA0397@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03092500"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/xuzyQXsQC4/file/intro?d=1650547200",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/xuzyQXsQC4/quicktime.rss",
+    "embed_url": "/vod/playlists/xuzyQXsQC4.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/xuzyQXsQC4/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/xuzyQXsQC4/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/xuzyQXsQC4/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:20:00.329Z",
+    "created_at": "2022-04-07T09:55:18.629Z",
+    "from_lmucast": false,
+    "clips_count": 0
+  },
+  {
+    "id": "auYKSIptpz",
+    "playlist_id": 9379,
+    "name": "Examinatorium Zivilrecht: Bereicherungsrecht (Kursjahr 2021/22)",
+    "protection": "public",
+    "user_id": 17632,
+    "producers": [{
+        "id": 19437,
+        "email": "r.rachlitz@lmu.de",
+        "password": null,
+        "firstname": "Richard",
+        "lastname": "Rachlitz",
+        "role": "owner",
+        "created_at": "2020-03-20T07:26:58.514Z",
+        "updated_at": "2022-05-22T09:05:29.869Z",
+        "uniqueid": "41B4CFCD9550210C@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090100"
+      },
+      {
+        "id": 59761,
+        "email": "sbj@lmu.de",
+        "password": null,
+        "firstname": "Sbj",
+        "lastname": "Studienbüro eins",
+        "role": "owner",
+        "created_at": "2021-08-16T11:04:18.572Z",
+        "updated_at": "2022-05-23T15:45:20.049Z",
+        "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000"
+      }
+    ],
+    "owner": {
+      "id": 17632,
+      "uniqueid": "4E026FB6A2B5DE7D@lmu.de",
+      "email": "manuel.fink@campus.lmu.de",
+      "firstname": "Manuel",
+      "lastname": "Fink",
+      "faculties": [
+        "03",
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/auYKSIptpz/file/intro?d=1646849746",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/auYKSIptpz/quicktime.rss",
+    "embed_url": "/vod/playlists/auYKSIptpz.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Manuel Fink",
+    "iTunes_owner_name": "Manuel Fink",
+    "iTunes_email": "manuel.fink@campus.lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/auYKSIptpz/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/auYKSIptpz/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/auYKSIptpz/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-03-09T18:15:46.184Z",
+    "created_at": "2022-03-09T18:03:09.601Z",
+    "from_lmucast": false,
+    "clips_count": 6
+  },
+  {
+    "id": "enb3cQrUDl",
+    "playlist_id": 9342,
+    "name": "Scheinfrei - was nun?",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/enb3cQrUDl/quicktime.rss",
+    "embed_url": "/vod/playlists/enb3cQrUDl.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/enb3cQrUDl/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/enb3cQrUDl/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/enb3cQrUDl/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-02-15T10:54:17.217Z",
+    "created_at": "2022-02-15T10:25:47.817Z",
+    "from_lmucast": false,
+    "clips_count": 1
+  },
+  {
+    "id": "PcKqvJoyGu",
+    "playlist_id": 9237,
+    "name": "Zusatzveranstaltung Digitalisierung und Verbraucherschutz: Examensrelevante Änderungen des BGB",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [{
+        "id": 41988,
+        "email": "johannes.gansmeier@campus.lmu.de",
+        "password": null,
+        "firstname": "Johannes",
+        "lastname": "Gansmeier",
+        "role": "owner",
+        "created_at": "2020-10-22T13:43:44.250Z",
+        "updated_at": "2022-04-12T07:06:21.947Z",
+        "uniqueid": "54C68BEAE4A567B2@lmu.de",
+        "unscoped_affiliation": "member;student;faculty;employee",
+        "affiliation": "faculty@lmu.de;student@lmu.de;member@lmu.de;employee@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03090100"
+      },
+      {
+        "id": 17632,
+        "email": "manuel.fink@campus.lmu.de",
+        "password": null,
+        "firstname": "Manuel",
+        "lastname": "Fink",
+        "role": "owner",
+        "created_at": "2019-11-08T16:22:24.259Z",
+        "updated_at": "2022-04-26T10:19:03.187Z",
+        "uniqueid": "4E026FB6A2B5DE7D@lmu.de",
+        "unscoped_affiliation": "member;student;employee;staff",
+        "affiliation": "member@lmu.de;staff@lmu.de;employee@lmu.de;student@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03090100"
+      }
+    ],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/PcKqvJoyGu/file/intro?d=1650547215",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/PcKqvJoyGu/quicktime.rss",
+    "embed_url": "/vod/playlists/PcKqvJoyGu.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/PcKqvJoyGu/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/PcKqvJoyGu/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/PcKqvJoyGu/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:20:15.292Z",
+    "created_at": "2022-01-21T11:22:33.241Z",
+    "from_lmucast": false,
+    "clips_count": 3
+  },
+  {
+    "id": "fXj8aH03gp",
+    "playlist_id": 9169,
+    "name": "Studium und Beruf - Juraexamen nicht bestanden - und jetzt? | 11.1.2022",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/fXj8aH03gp/quicktime.rss",
+    "embed_url": "/vod/playlists/fXj8aH03gp.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/fXj8aH03gp/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/fXj8aH03gp/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/fXj8aH03gp/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-01-11T06:53:24.541Z",
+    "created_at": "2022-01-11T06:53:24.541Z",
+    "from_lmucast": false,
+    "clips_count": 1
+  },
+  {
+    "id": "mR5PzaUKdF",
+    "playlist_id": 9168,
+    "name": "Virtuelle Campustage 2022 ",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/mR5PzaUKdF/quicktime.rss",
+    "embed_url": "/vod/playlists/mR5PzaUKdF.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/mR5PzaUKdF/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/mR5PzaUKdF/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/mR5PzaUKdF/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-01-11T06:52:48.494Z",
+    "created_at": "2022-01-11T06:52:48.494Z",
+    "from_lmucast": false,
+    "clips_count": 1
+  },
+  {
+    "id": "pkm3l2ZzmA",
+    "playlist_id": 9005,
+    "name": "Informationsveranstaltung zum Auslandsstudium",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/pkm3l2ZzmA/quicktime.rss",
+    "embed_url": "/vod/playlists/pkm3l2ZzmA.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/pkm3l2ZzmA/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/pkm3l2ZzmA/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/pkm3l2ZzmA/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-12-14T11:49:15.351Z",
+    "created_at": "2021-12-02T14:09:35.462Z",
+    "from_lmucast": false,
+    "clips_count": 1
+  },
+  {
+    "id": "2AEZp3beUe",
+    "playlist_id": 8840,
+    "name": "PÜ Knebel",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/2AEZp3beUe/quicktime.rss",
+    "embed_url": "/vod/playlists/2AEZp3beUe.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/2AEZp3beUe/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/2AEZp3beUe/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/2AEZp3beUe/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-11-10T13:38:53.009Z",
+    "created_at": "2021-11-10T13:38:40.341Z",
+    "from_lmucast": false,
+    "clips_count": 1
+  },
+  {
+    "id": "sJGS6YtTc8",
+    "playlist_id": 8822,
+    "name": "Die Praxis des Arzthaftungsprozesses - Johannes Brose",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/sJGS6YtTc8/quicktime.rss",
+    "embed_url": "/vod/playlists/sJGS6YtTc8.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/sJGS6YtTc8/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/sJGS6YtTc8/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/sJGS6YtTc8/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-11-08T14:11:33.137Z",
+    "created_at": "2021-11-08T14:10:43.125Z",
+    "from_lmucast": false,
+    "clips_count": 2
+  },
+  {
+    "id": "jT0kPfh2aj",
+    "playlist_id": 8715,
+    "name": "Übung Handels- und Gesellschaftsrecht (für Wiederholer und Quereinsteiger) (Dozent: Markus Neuner)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/jT0kPfh2aj/quicktime.rss",
+    "embed_url": "/vod/playlists/jT0kPfh2aj.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/jT0kPfh2aj/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/jT0kPfh2aj/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/jT0kPfh2aj/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-25T14:16:20.273Z",
+    "created_at": "2021-10-25T14:11:07.175Z",
+    "from_lmucast": false,
+    "clips_count": 13
+  },
+  {
+    "id": "AYyulf0C4l",
+    "playlist_id": 8680,
+    "name": "Prof. Kersten - BiomedizinR",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/AYyulf0C4l/file/intro?d=1635339984",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/AYyulf0C4l/quicktime.rss",
+    "embed_url": "/vod/playlists/AYyulf0C4l.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/AYyulf0C4l/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/AYyulf0C4l/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/AYyulf0C4l/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-27T13:06:24.215Z",
+    "created_at": "2021-10-21T15:16:58.054Z",
+    "from_lmucast": false,
+    "clips_count": 14
+  },
+  {
+    "id": "0kOINoJFUt",
+    "playlist_id": 8656,
+    "name": "Gesellschaftsrecht - Prof. Dr. Mathias Habersack",
+    "protection": "protected",
+    "user_id": 16546,
+    "producers": [{
+        "id": 59761,
+        "email": "sbj@lmu.de",
+        "password": null,
+        "firstname": "Sbj",
+        "lastname": "Studienbüro eins",
+        "role": "owner",
+        "created_at": "2021-08-16T11:04:18.572Z",
+        "updated_at": "2022-05-23T15:45:20.049Z",
+        "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000"
+      },
+      {
+        "id": 12927,
+        "email": "andreas.bartholomae@lmu.de",
+        "password": null,
+        "firstname": "Andreas",
+        "lastname": "Bartholomä",
+        "role": "owner",
+        "created_at": "2018-11-07T18:45:41.825Z",
+        "updated_at": "2022-05-23T10:52:19.931Z",
+        "uniqueid": "69E944E756860575@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090003"
+      }
+    ],
+    "owner": {
+      "id": 16546,
+      "uniqueid": "E8D8EDC9DAFDFEED@lmu.de",
+      "email": "elke.kaelin@lmu.de",
+      "firstname": "Elke",
+      "lastname": "Kälin",
+      "faculties": [
+        "03",
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/0kOINoJFUt/file/intro?d=1634888709",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/0kOINoJFUt/quicktime.rss",
+    "embed_url": "/vod/playlists/0kOINoJFUt.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Elke Kälin",
+    "iTunes_owner_name": "Elke Kälin",
+    "iTunes_email": "elke.kaelin@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/0kOINoJFUt/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/0kOINoJFUt/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/0kOINoJFUt/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-22T07:45:09.547Z",
+    "created_at": "2021-10-20T08:31:40.293Z",
+    "from_lmucast": false,
+    "clips_count": 15
+  },
+  {
+    "id": "Ttu8FqY15S",
+    "playlist_id": 8607,
+    "name": "Vertiefung GmbH und GmbH & Co. - Prof. Dr. Mathias Habersack",
+    "protection": "protected",
+    "user_id": 16546,
+    "producers": [{
+        "id": 12927,
+        "email": "andreas.bartholomae@lmu.de",
+        "password": null,
+        "firstname": "Andreas",
+        "lastname": "Bartholomä",
+        "role": "owner",
+        "created_at": "2018-11-07T18:45:41.825Z",
+        "updated_at": "2022-05-23T10:52:19.931Z",
+        "uniqueid": "69E944E756860575@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090003"
+      },
+      {
+        "id": 59761,
+        "email": "sbj@lmu.de",
+        "password": null,
+        "firstname": "Sbj",
+        "lastname": "Studienbüro eins",
+        "role": "owner",
+        "created_at": "2021-08-16T11:04:18.572Z",
+        "updated_at": "2022-05-23T15:45:20.049Z",
+        "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000"
+      }
+    ],
+    "owner": {
+      "id": 16546,
+      "uniqueid": "E8D8EDC9DAFDFEED@lmu.de",
+      "email": "elke.kaelin@lmu.de",
+      "firstname": "Elke",
+      "lastname": "Kälin",
+      "faculties": [
+        "03",
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/Ttu8FqY15S/file/intro?d=1635141922",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/Ttu8FqY15S/quicktime.rss",
+    "embed_url": "/vod/playlists/Ttu8FqY15S.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Elke Kälin",
+    "iTunes_owner_name": "Elke Kälin",
+    "iTunes_email": "elke.kaelin@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/Ttu8FqY15S/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/Ttu8FqY15S/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/Ttu8FqY15S/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-25T06:05:22.471Z",
+    "created_at": "2021-10-18T14:30:46.889Z",
+    "from_lmucast": false,
+    "clips_count": 14
+  },
+  {
+    "id": "B5SoZYB5FI",
+    "playlist_id": 8606,
+    "name": "Deutsches und Europäisches Kartellrecht | Prof. Dr. Ackermann (WiSe 2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 16546,
+      "email": "elke.kaelin@lmu.de",
+      "password": null,
+      "firstname": "Elke",
+      "lastname": "Kälin",
+      "role": "owner",
+      "created_at": "2019-10-21T07:18:59.837Z",
+      "updated_at": "2022-05-18T05:41:32.832Z",
+      "uniqueid": "E8D8EDC9DAFDFEED@lmu.de",
+      "unscoped_affiliation": "employee;member;staff",
+      "affiliation": "member@lmu.de;staff@lmu.de;employee@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03091700;03092200"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/B5SoZYB5FI/quicktime.rss",
+    "embed_url": "/vod/playlists/B5SoZYB5FI.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/B5SoZYB5FI/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/B5SoZYB5FI/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/B5SoZYB5FI/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-18T14:27:42.048Z",
+    "created_at": "2021-10-18T14:26:25.315Z",
+    "from_lmucast": false,
+    "clips_count": 14
+  },
+  {
+    "id": "yGgpBaYYc0",
+    "playlist_id": 8579,
+    "name": "Grundkurs Strafrecht I (L–Z) | Prof. Dr. Helmut Satzger (WiSe2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/yGgpBaYYc0/quicktime.rss",
+    "embed_url": "/vod/playlists/yGgpBaYYc0.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/yGgpBaYYc0/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/yGgpBaYYc0/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/yGgpBaYYc0/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-18T04:50:01.317Z",
+    "created_at": "2021-10-18T04:50:01.317Z",
+    "from_lmucast": false,
+    "clips_count": 42
+  },
+  {
+    "id": "ZcYnosOUun",
+    "playlist_id": 8578,
+    "name": "Übung im Öffentlichen Recht für Fortgeschrittene | Prof. Dr. Martin Burgi (WiSe2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+        "id": 36446,
+        "email": "malin.nischwitz@lmu.de",
+        "password": null,
+        "firstname": "Malin",
+        "lastname": "Nischwitz",
+        "role": "owner",
+        "created_at": "2020-05-06T08:10:34.155Z",
+        "updated_at": "2022-05-04T09:16:47.174Z",
+        "uniqueid": "1D71D900EE4024C7@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090000"
+      },
+      {
+        "id": 19646,
+        "email": "martin.burgi@lmu.de",
+        "password": null,
+        "firstname": "Martin",
+        "lastname": "Burgi",
+        "role": "owner",
+        "created_at": "2020-03-31T14:05:10.409Z",
+        "updated_at": "2022-04-28T14:43:20.642Z",
+        "uniqueid": "3345EAD32C24D834@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03093100"
+      }
+    ],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/ZcYnosOUun/quicktime.rss",
+    "embed_url": "/vod/playlists/ZcYnosOUun.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/ZcYnosOUun/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/ZcYnosOUun/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/ZcYnosOUun/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-25T09:14:46.573Z",
+    "created_at": "2021-10-18T04:44:44.457Z",
+    "from_lmucast": false,
+    "clips_count": 11
+  },
+  {
+    "id": "DF72yy0ksW",
+    "playlist_id": 8577,
+    "name": "Verwaltungsrecht AT | Prof. Dr. Martin Burgi (WiSe2021/22)",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [{
+        "id": 36446,
+        "email": "malin.nischwitz@lmu.de",
+        "password": null,
+        "firstname": "Malin",
+        "lastname": "Nischwitz",
+        "role": "owner",
+        "created_at": "2020-05-06T08:10:34.155Z",
+        "updated_at": "2022-05-04T09:16:47.174Z",
+        "uniqueid": "1D71D900EE4024C7@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090000"
+      },
+      {
+        "id": 19646,
+        "email": "martin.burgi@lmu.de",
+        "password": null,
+        "firstname": "Martin",
+        "lastname": "Burgi",
+        "role": "owner",
+        "created_at": "2020-03-31T14:05:10.409Z",
+        "updated_at": "2022-04-28T14:43:20.642Z",
+        "uniqueid": "3345EAD32C24D834@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03093100"
+      }
+    ],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/DF72yy0ksW/quicktime.rss",
+    "embed_url": "/vod/playlists/DF72yy0ksW.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/DF72yy0ksW/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/DF72yy0ksW/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/DF72yy0ksW/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-25T09:14:31.637Z",
+    "created_at": "2021-10-18T04:44:00.259Z",
+    "from_lmucast": false,
+    "clips_count": 30
+  },
+  {
+    "id": "I40huIUtxG",
+    "playlist_id": 8576,
+    "name": "Delikts- und Schadensrecht | Prof. Dr. Susanne Lepsius (WiSe2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/I40huIUtxG/quicktime.rss",
+    "embed_url": "/vod/playlists/I40huIUtxG.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/I40huIUtxG/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/I40huIUtxG/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/I40huIUtxG/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-18T04:43:22.896Z",
+    "created_at": "2021-10-18T04:43:22.896Z",
+    "from_lmucast": false,
+    "clips_count": 15
+  },
+  {
+    "id": "hNYTXTtFGq",
+    "playlist_id": 8575,
+    "name": "Grundkurs Öffentliches Recht I (A–G) | Prof. Dr. Jens Kersten (WiSe2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/hNYTXTtFGq/file/intro?d=1634879450",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/hNYTXTtFGq/quicktime.rss",
+    "embed_url": "/vod/playlists/hNYTXTtFGq.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/hNYTXTtFGq/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/hNYTXTtFGq/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/hNYTXTtFGq/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-22T05:10:50.481Z",
+    "created_at": "2021-10-18T04:42:23.287Z",
+    "from_lmucast": false,
+    "clips_count": 30
+  },
+  {
+    "id": "glGvxc5d5q",
+    "playlist_id": 8574,
+    "name": "Grundkurs Zivilrecht I (A–G) | Prof. Dr. Thomas Ackermann (WiSe2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 16546,
+      "email": "elke.kaelin@lmu.de",
+      "password": null,
+      "firstname": "Elke",
+      "lastname": "Kälin",
+      "role": "owner",
+      "created_at": "2019-10-21T07:18:59.837Z",
+      "updated_at": "2022-05-18T05:41:32.832Z",
+      "uniqueid": "E8D8EDC9DAFDFEED@lmu.de",
+      "unscoped_affiliation": "employee;member;staff",
+      "affiliation": "member@lmu.de;staff@lmu.de;employee@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03091700;03092200"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/glGvxc5d5q/file/intro?d=1634879470",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/glGvxc5d5q/quicktime.rss",
+    "embed_url": "/vod/playlists/glGvxc5d5q.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/glGvxc5d5q/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/glGvxc5d5q/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/glGvxc5d5q/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-22T05:11:10.175Z",
+    "created_at": "2021-10-18T04:41:38.388Z",
+    "from_lmucast": false,
+    "clips_count": 43
+  },
+  {
+    "id": "l9Jg99c7Ri",
+    "playlist_id": 8522,
+    "name": "Probeexamen 2021/2 | Klausur Nr. 2 (Bartholomä)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/l9Jg99c7Ri/quicktime.rss",
+    "embed_url": "/vod/playlists/l9Jg99c7Ri.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/l9Jg99c7Ri/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/l9Jg99c7Ri/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/l9Jg99c7Ri/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-14T08:23:40.260Z",
+    "created_at": "2021-10-14T08:23:40.260Z",
+    "from_lmucast": false,
+    "clips_count": 1
+  },
+  {
+    "id": "InKWBprBj0",
+    "playlist_id": 8518,
+    "name": "Grundkurs Zivilrecht I (H–N) | Prof. Dr. Johannes Platschek (WiSe2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 20761,
+      "email": "johannes.platschek@lmu.de",
+      "password": null,
+      "firstname": "Johannes",
+      "lastname": "Platschek",
+      "role": "owner",
+      "created_at": "2020-04-15T20:41:20.476Z",
+      "updated_at": "2022-04-23T15:40:34.253Z",
+      "uniqueid": "30C2F45302EB1100@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03092100"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/InKWBprBj0/file/intro?d=1634879500",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/InKWBprBj0/quicktime.rss",
+    "embed_url": "/vod/playlists/InKWBprBj0.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/InKWBprBj0/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/InKWBprBj0/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/InKWBprBj0/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-22T05:11:40.799Z",
+    "created_at": "2021-10-14T04:34:45.661Z",
+    "from_lmucast": false,
+    "clips_count": 42
+  },
+  {
+    "id": "h852umFVmY",
+    "playlist_id": 8517,
+    "name": "Römische Rechtsgeschichte | Prof. Dr. Johannes Platschek (WiSe2021/22)",
+    "protection": "protected",
+    "user_id": 59761,
+    "producers": [{
+      "id": 20761,
+      "email": "johannes.platschek@lmu.de",
+      "password": null,
+      "firstname": "Johannes",
+      "lastname": "Platschek",
+      "role": "owner",
+      "created_at": "2020-04-15T20:41:20.476Z",
+      "updated_at": "2022-04-23T15:40:34.253Z",
+      "uniqueid": "30C2F45302EB1100@lmu.de",
+      "unscoped_affiliation": "employee;member;faculty",
+      "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+      "features_of_study": null,
+      "faculty_codes": "03092100"
+    }],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/h852umFVmY/file/intro?d=1634879535",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/h852umFVmY/quicktime.rss",
+    "embed_url": "/vod/playlists/h852umFVmY.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/h852umFVmY/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/h852umFVmY/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/h852umFVmY/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-22T05:12:15.671Z",
+    "created_at": "2021-10-14T04:25:45.979Z",
+    "from_lmucast": false,
+    "clips_count": 14
+  },
+  {
+    "id": "cPqNjyg9Xg",
+    "playlist_id": 8438,
+    "name": "Examinatorium Zivilrecht – BGB AT | Prof. Dr. Hans Christoph Grigoleit",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [{
+        "id": 17632,
+        "email": "manuel.fink@campus.lmu.de",
+        "password": null,
+        "firstname": "Manuel",
+        "lastname": "Fink",
+        "role": "owner",
+        "created_at": "2019-11-08T16:22:24.259Z",
+        "updated_at": "2022-04-26T10:19:03.187Z",
+        "uniqueid": "4E026FB6A2B5DE7D@lmu.de",
+        "unscoped_affiliation": "member;student;employee;staff",
+        "affiliation": "member@lmu.de;staff@lmu.de;employee@lmu.de;student@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03090100"
+      },
+      {
+        "id": 19430,
+        "email": "simon.pollak@campus.lmu.de",
+        "password": null,
+        "firstname": "Simon",
+        "lastname": "Pollak",
+        "role": "owner",
+        "created_at": "2020-03-19T15:23:33.339Z",
+        "updated_at": "2022-03-07T13:16:34.498Z",
+        "uniqueid": "3662BA57842328B2@lmu.de",
+        "unscoped_affiliation": "member;student;employee;staff",
+        "affiliation": "member@lmu.de;staff@lmu.de;employee@lmu.de;student@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03091300"
+      }
+    ],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/cPqNjyg9Xg/file/intro?d=1638349009",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/cPqNjyg9Xg/quicktime.rss",
+    "embed_url": "/vod/playlists/cPqNjyg9Xg.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/cPqNjyg9Xg/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/cPqNjyg9Xg/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/cPqNjyg9Xg/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-12-01T08:56:49.202Z",
+    "created_at": "2021-10-05T14:10:21.007Z",
+    "from_lmucast": false,
+    "clips_count": 6
+  },
+  {
+    "id": "jdzPXXB0MY",
+    "playlist_id": 8428,
+    "name": "Einführungsveranstaltungen für Erstsemester im Wintersemester 2021/22",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": null,
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/jdzPXXB0MY/quicktime.rss",
+    "embed_url": "/vod/playlists/jdzPXXB0MY.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": "de",
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/jdzPXXB0MY/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/jdzPXXB0MY/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/jdzPXXB0MY/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2021-10-12T07:43:02.155Z",
+    "created_at": "2021-10-03T05:06:45.816Z",
+    "from_lmucast": false,
+    "clips_count": 2
+  },
+  {
+    "id": "vS0H4FONTa",
+    "playlist_id": 8395,
+    "name": "E-Learning-Support für Studierende der Juristischen Fakultät",
+    "protection": "public",
+    "user_id": 59761,
+    "producers": [],
+    "owner": {
+      "id": 59761,
+      "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+      "email": "sbj@lmu.de",
+      "firstname": "Sbj",
+      "lastname": "Studienbüro eins",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/playlists/vS0H4FONTa/file/header?d=1650547267",
+    "footer_url": null,
+    "intro_url": "/playlists/vS0H4FONTa/file/intro?d=1650547267",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/vS0H4FONTa/quicktime.rss",
+    "embed_url": "/vod/playlists/vS0H4FONTa.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Sbj Studienbüro eins",
+    "iTunes_owner_name": "Sbj Studienbüro eins",
+    "iTunes_email": "sbj@lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+        "export_format_id": "online",
+        "url": "/playlists/vS0H4FONTa/online.rss",
+        "available": true,
+        "fa_icon_name": "fa-youtube-play",
+        "name": null
+      },
+      {
+        "export_format_id": "audio_only",
+        "url": "/playlists/vS0H4FONTa/audio_only.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-audio-o",
+        "name": null
+      },
+      {
+        "export_format_id": "high_quality",
+        "url": "/playlists/vS0H4FONTa/high_quality.rss",
+        "available": true,
+        "fa_icon_name": "fa-file-video-o",
+        "name": null
+      }
+    ],
+    "updated_at": "2022-04-21T13:21:07.246Z",
+    "created_at": "2021-09-21T13:40:17.665Z",
+    "from_lmucast": false,
+    "clips_count": 2
+  },
+  {
+    "id": "JsSFM23oqr",
+    "playlist_id": 2143,
+    "name": "Klausurwerkstatt SoSe 2022",
+    "protection": "protected",
+    "user_id": 12927,
+    "producers": [{
+        "id": 59761,
+        "email": "sbj@lmu.de",
+        "password": null,
+        "firstname": "Sbj",
+        "lastname": "Studienbüro eins",
+        "role": "owner",
+        "created_at": "2021-08-16T11:04:18.572Z",
+        "updated_at": "2022-05-23T15:45:20.049Z",
+        "uniqueid": "6FB4481A3EEC6EE4@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000"
+      },
+      {
+        "id": 19958,
+        "email": "m.scheffelt@campus.lmu.de",
+        "password": null,
+        "firstname": "Marius",
+        "lastname": "Scheffelt",
+        "role": "owner",
+        "created_at": "2020-04-07T15:56:41.489Z",
+        "updated_at": "2022-02-08T15:06:45.569Z",
+        "uniqueid": "2EB671E947290D4B@lmu.de",
+        "unscoped_affiliation": "member;student",
+        "affiliation": "member@lmu.de;student@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000"
+      },
+      {
+        "id": 19439,
+        "email": "victoria.ibold@lmu.de",
+        "password": null,
+        "firstname": "Victoria",
+        "lastname": "Ibold",
+        "role": "owner",
+        "created_at": "2020-03-20T09:19:41.235Z",
+        "updated_at": "2022-04-26T12:55:33.273Z",
+        "uniqueid": "5FE4611CCECA0397@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03092500"
+      },
+      {
+        "id": 6385,
+        "email": "martin.heidebach@lmu.de",
+        "password": null,
+        "firstname": "Martin",
+        "lastname": "Heidebach",
+        "role": "owner",
+        "created_at": "2018-03-07T10:07:39.511Z",
+        "updated_at": "2022-04-22T13:57:37.446Z",
+        "uniqueid": "7F4E77A76C21F166@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090000"
+      },
+      {
+        "id": 19938,
+        "email": "mayr.sebastian@campus.lmu.de",
+        "password": null,
+        "firstname": "Sebastian",
+        "lastname": "Mayr",
+        "role": "owner",
+        "created_at": "2020-04-07T11:05:49.034Z",
+        "updated_at": "2021-04-15T22:08:36.480Z",
+        "uniqueid": "11298FC81C398902@lmu.de",
+        "unscoped_affiliation": "member;staff;employee",
+        "affiliation": "employee@lmu.de;member@lmu.de;staff@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03090000"
+      },
+      {
+        "id": 20079,
+        "email": "david.paulus@lmu.de",
+        "password": null,
+        "firstname": "David",
+        "lastname": "Paulus",
+        "role": "owner",
+        "created_at": "2020-04-09T10:32:50.591Z",
+        "updated_at": "2022-05-19T14:11:52.118Z",
+        "uniqueid": "50844EBD3FE9DEAA@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03091500"
+      },
+      {
+        "id": 12927,
+        "email": "andreas.bartholomae@lmu.de",
+        "password": null,
+        "firstname": "Andreas",
+        "lastname": "Bartholomä",
+        "role": "owner",
+        "created_at": "2018-11-07T18:45:41.825Z",
+        "updated_at": "2022-05-23T10:52:19.931Z",
+        "uniqueid": "69E944E756860575@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090003"
+      },
+      {
+        "id": 19738,
+        "email": "anne.s.fischer@lmu.de",
+        "password": null,
+        "firstname": "Anne-sophie",
+        "lastname": "Fischer",
+        "role": "owner",
+        "created_at": "2020-04-01T18:44:24.151Z",
+        "updated_at": "2022-01-01T16:06:55.262Z",
+        "uniqueid": "5712D1257C118BD4@lmu.de",
+        "unscoped_affiliation": "employee;faculty;student;member",
+        "affiliation": "employee@lmu.de;member@lmu.de;student@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03093400;03000000"
+      },
+      {
+        "id": 19382,
+        "email": "sonja.heitzer@lmu.de",
+        "password": null,
+        "firstname": "Sonja katharina",
+        "lastname": "Heitzer",
+        "role": "owner",
+        "created_at": "2020-03-10T20:11:29.334Z",
+        "updated_at": "2022-04-27T11:25:59.386Z",
+        "uniqueid": "5AAE6DA3DE1F98A1@lmu.de",
+        "unscoped_affiliation": "employee;member;faculty",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03093400"
+      },
+      {
+        "id": 20363,
+        "email": "joachim.wutte@lmu.de",
+        "password": null,
+        "firstname": "Joachim",
+        "lastname": "Wutte",
+        "role": "owner",
+        "created_at": "2020-04-14T06:48:14.286Z",
+        "updated_at": "2021-08-06T14:56:43.772Z",
+        "uniqueid": "4086CABADECE9AF4@lmu.de",
+        "unscoped_affiliation": "faculty;employee;member",
+        "affiliation": "member@lmu.de;employee@lmu.de;faculty@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03090200"
+      },
+      {
+        "id": 12389,
+        "email": "j.spoerl@campus.lmu.de",
+        "password": null,
+        "firstname": "Jonathan-milot",
+        "lastname": "Spörl",
+        "role": "owner",
+        "created_at": "2018-10-22T04:32:16.434Z",
+        "updated_at": "2022-03-02T09:09:13.977Z",
+        "uniqueid": "7493952CBD4EEA1D@lmu.de",
+        "unscoped_affiliation": "member;student;employee;staff",
+        "affiliation": "member@lmu.de;staff@lmu.de;employee@lmu.de;student@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03092700"
+      },
+      {
+        "id": 18850,
+        "email": "jonas.schmidt@campus.lmu.de",
+        "password": null,
+        "firstname": "Jonas",
+        "lastname": "Schmidt",
+        "role": "owner",
+        "created_at": "2020-01-20T23:59:31.902Z",
+        "updated_at": "2022-04-22T06:16:15.112Z",
+        "uniqueid": "52124D5418FC10E7@lmu.de",
+        "unscoped_affiliation": "member;student;employee;staff",
+        "affiliation": "member@lmu.de;staff@lmu.de;employee@lmu.de;student@lmu.de",
+        "features_of_study": null,
+        "faculty_codes": "03000000;03090000;04000000"
+      }
+    ],
+    "owner": {
+      "id": 12927,
+      "uniqueid": "69E944E756860575@lmu.de",
+      "email": "andreas.bartholomae@lmu.de",
+      "firstname": "Andreas",
+      "lastname": "Bartholomä",
+      "faculties": [
+        "03"
+      ],
+      "role": "owner"
+    },
+    "spectators": [],
+    "course_ids": [],
+    "enable_watermark": false,
+    "searchable": true,
+    "custom_css": null,
+    "deleted": false,
+    "custom_poster_url": "/system/default/file/custom_poster",
+    "header_url": "/system/default/file/header",
+    "footer_url": null,
+    "intro_url": "/playlists/JsSFM23oqr/file/intro?d=1650547254",
+    "outro_url": null,
+    "rss_quicktime_url": "/playlists/JsSFM23oqr/quicktime.rss",
+    "embed_url": "/vod/playlists/JsSFM23oqr.js",
+    "iTunes_icon_name": null,
+    "iTunes_icon_url": "/playlists/itunes_icon",
+    "iTunes_description": null,
+    "iTunes_complete": null,
+    "iTunes_keywords": null,
+    "iTunes_category": null,
+    "iTunes_language": null,
+    "iTunes_author": "Franziska gisela Faßbinder",
+    "iTunes_owner_name": "Franziska gisela Faßbinder",
+    "iTunes_email": "franziska.fassbinder@campus.lmu.de",
+    "iTunes_explicit": null,
+    "iTunes_publish_date": null,
+    "iTunes_category_code": null,
+    "required_faculties": [],
+    "export_format_ids": [
+      "online"
+    ],
+    "allowed_export_format_ids": [
+      "online",
+      "audio_only",
+      "high_quality"
+    ],
+    "rss_feeds": [{
+      "export_format_id": "online",
+      "url": "/playlists/JsSFM23oqr/online.rss",
+      "available": true,
+      "fa_icon_name": "fa-youtube-play",
+      "name": null
+    }],
+    "updated_at": "2022-04-21T13:20:54.818Z",
+    "created_at": "2020-04-06T08:31:06.586Z",
+    "from_lmucast": false,
+    "clips_count": 83
+  }
+]

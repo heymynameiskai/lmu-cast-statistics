@@ -12,6 +12,7 @@ pyenv local $VERSION
 
 # Setup Virtual Environment
 python -m venv .venv
+source .venv/bin/activate
 
 # Install pip
 python -m ensurepip --upgrade

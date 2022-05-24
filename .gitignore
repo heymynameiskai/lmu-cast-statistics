@@ -1,3 +1,7 @@
+#secure files which must not be commited
+keys.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

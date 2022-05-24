@@ -114,4 +114,4 @@ def getStatisticsByPlaylist(id):
 
 
 
-# print(getPlaylistAttributes("EsflD5TvTE"))
+print(getStatisticsByPlaylist("EsflD5TvTE"))

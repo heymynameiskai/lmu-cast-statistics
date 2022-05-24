@@ -13,13 +13,12 @@
 _Returns all playlists of user logged in._
 
 **Request**
-```http
+```shell
 GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
 ```
 
 **Response**
 ```python
-return
 {
   'status': <http_status_code>,
   'content': {

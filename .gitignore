@@ -1,5 +1,11 @@
-#secure files which must not be commited
+# secure files which must not be commited
 keys.py
+
+# temp and export files which should not be comitted
+export_pdf/
+
+# macOS
+.DS_Store
 
 
 # Byte-compiled / optimized / DLL files

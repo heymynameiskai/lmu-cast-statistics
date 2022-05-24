@@ -18,7 +18,7 @@ GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
 ```
 
 **Response**
-```python
+```javascript Response 
 return
 {
   'status': <http_status_code>,

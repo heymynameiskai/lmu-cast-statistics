@@ -18,7 +18,7 @@ GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
 ```
 
 **Response**
-```json
+```yaml
 {
   "status": <http_status_code>,
   "content": {
@@ -29,13 +29,7 @@ GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
   }
 }
 ```
-```JSON
-{
- "name": 12,
- "bornOn": "1957-01-05",
- "bornIn": "http://www.scotland.org#"
-}
-```
+
 
 
 
@@ -47,7 +41,7 @@ _Returns all playlists of user logged in._
 
 **Request**
 ```http
-GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
+GET "https://cast.itunes.uni-muenchen.de/api/v1/playlists"
 ```
 
 **Response**

@@ -17,7 +17,9 @@ All API-Calls are sending this header:
 }
 ```
 Make shure you have added your `auth_cookie` to `keys.py`.
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
@@ -26,7 +28,7 @@ _Returns all playlists of user logged in._
 
 **Request**
 ```http
-GET 'https://cast.itunes.uni-muenchen.de/api/v1/playlists'
+GET "https://cast.itunes.uni-muenchen.de/api/v1/playlists"
 ```
 
 **Response**
@@ -42,7 +44,9 @@ GET 'https://cast.itunes.uni-muenchen.de/api/v1/playlists'
   }
 }
 ```
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
@@ -93,7 +97,7 @@ GET 'https://cast.itunes.uni-muenchen.de/api/v1/playlist_statistics/<playlist_id
           'name': <video_name>,
           'hits_online': Int,
           'hits_video': Int,
-          'hits_audio': Int 
+          'hits_audio': Int
       },
       ...
   }

@@ -12,12 +12,10 @@
 ## getPlaylists( )
 _Returns all playlists of user logged in._
 
-**Request**
-```http
+
+```python Request
 GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
 ```
-
-**Response**
 ```javascript Response 
 return
 {

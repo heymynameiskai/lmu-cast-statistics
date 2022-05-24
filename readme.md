@@ -1,21 +1,20 @@
 # LMU Cast Statistics Generator
 
 ## Requirements & Installation
-
+...
 
 ## Usage
+...
 
 
+# api.py
 
-# Documentation
-## api.py
-
-### getPlaylists( )
+## getPlaylists( )
 _Returns all playlists of user logged in._
 
 **Request**
 ```http
-GET <api_root>/playlists
+GET https://cast.itunes.uni-muenchen.de/api/v1/playlists
 ```
 
 **Response**
@@ -34,7 +33,7 @@ return
 
 
 
-### getPlaylistAttributes( `playlist_id` )
+## getPlaylistAttributes( `playlist_id` )
 _Returns all playlists of user logged in._
 
 **Arguments**
@@ -46,7 +45,7 @@ GET <api_root>/playlists
 ```
 
 **Response**
-```python
+```json
 {
   'status': <http_status_code>,
   'content': {

@@ -1,4 +1,4 @@
-# api.py
+# Documentation of api.py
 #### constants
 - `AUTH_COOKIE` Authentification Cookie for LMU Cast, importet from keys.py
 - `API_ROOT`
@@ -9,7 +9,7 @@
 &nbsp;
 
 
-## apicall( `endpoint` )
+## `apicall( endpoint )`
 #### Arguments
 `endpoint` Endpoint of API that is to be called, e.g. `"/playlists"`
 
@@ -25,7 +25,7 @@ Method tries to call API and checks HTTP-Status-Code of response
 
 
 
-## clean_playlist_item( `playlist_item` )
+## `clean_playlist_item( playlist_item )`
 #### Arguments
 `playlist_item` JSON-object as returned by LMU-Cast-API, for example when calling `/playlists/<playlist_id>`. Note: this function takes a **single** item only, not a list of playlist-items like returned by `/playlists`.
 

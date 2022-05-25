@@ -9,7 +9,7 @@
 &nbsp;
 
 
-## `apicall( endpoint )`
+## ➡️ `apicall( endpoint )`
 #### Arguments
 `endpoint` Endpoint of API that is to be called, e.g. `"/playlists"`
 
@@ -25,7 +25,7 @@ Method tries to call API and checks HTTP-Status-Code of response
 
 
 
-## `clean_playlist_item( playlist_item )`
+## ➡️ `clean_playlist_item( playlist_item )`
 #### Arguments
 `playlist_item` JSON-object as returned by LMU-Cast-API, for example when calling `/playlists/<playlist_id>`. Note: this function takes a **single** item only, not a list of playlist-items like returned by `/playlists`.
 
@@ -54,7 +54,7 @@ Method tries to call API and checks HTTP-Status-Code of response
 
 
 
-## get_total_hits_online( `total_hits_by_format` )
+## ➡️ get_total_hits_online( `total_hits_by_format` )
 #### Arguments
 `total_hits_by_format` excerpt of json as returned by API_endpoint `/playlist_statistics/<playlist_id`
 ```yaml

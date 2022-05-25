@@ -56,7 +56,7 @@ Method tries to call API and checks HTTP-Status-Code of response
 
 ## ➡️ `get_total_hits_online( total_hits_by_format )`
 #### Arguments
-`total_hits_by_format` excerpt of json as returned by API_endpoint `/playlist_statistics/<playlist_id`
+`total_hits_by_format` excerpt of json as returned by API-endpoint `/playlist_statistics/<playlist_id>`
 ```yaml
 # API is returning this
 {
@@ -64,6 +64,7 @@ Method tries to call API and checks HTTP-Status-Code of response
     'title': <title_of_video>,
     'id': 0
   },
+  
   'total_hits_by_format': [ # we need this element for method
     {
       'format': 'online',
@@ -78,6 +79,7 @@ Method tries to call API and checks HTTP-Status-Code of response
       'total_hits': 102
     }
   ],
+  
   'daily_hits_by_format': [
     {
       'format': 'online',
@@ -92,6 +94,29 @@ Method finds number of hits for requested format, e.g. online, and returns integ
 &nbsp;
 &nbsp;
 &nbsp;
+
+
+
+## ➡️ `get_playlist_total_hits( playlist_id )`
+#### Arguments
+`playlist_id` Id of playlist in LMU-Cast
+
+#### Return
+```yaml
+{
+  '<video_id>': {
+      ‘title': '', # title of video in playlist
+      ‘hits_online': 123,
+      ‘hits_video': 12,
+      ‘hits_audio': 3
+  }
+}
+```
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 
 
 

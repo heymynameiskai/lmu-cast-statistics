@@ -137,9 +137,9 @@ def get_playlist_total_hits(playlist_id):
     for v in videos:
         hits[v['clip']['id']] = {
             'title': v['clip']['title'],
-            'online_total': get_total_hits_online(v['total_hits_by_format']),
-            'video_total': get_total_hits_video(v['total_hits_by_format']),
-            'audio_total': get_total_hits_audio(v['total_hits_by_format'])
+            'hits_online': get_total_hits_online(v['total_hits_by_format']),
+            'hits_video': get_total_hits_video(v['total_hits_by_format']),
+            'hits_audio': get_total_hits_audio(v['total_hits_by_format'])
         }
 
     return hits
@@ -149,5 +149,5 @@ def get_playlist_total_hits(playlist_id):
 
 
 
-print(get_single_playlist("EsflD5TvTE"))
+# print(get_single_playlist("EsflD5TvTE"))
 # print(get_playlist_total_hits("EsflD5TvTE"))

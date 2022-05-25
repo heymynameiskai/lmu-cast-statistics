@@ -38,8 +38,6 @@ def tablePrintHits(playlist_id):
     else:
         print(
             "Error while fetching API. Calling api.getStatisticsByPlaylist(" + playlist_id + ") returned HTTP-Status-Code: " + playlist_attributes_status)
-
-
 def printAllStatistics():
     playlists = api.get_all_playlists()['content']
 
@@ -47,37 +45,18 @@ def printAllStatistics():
         tablePrintHits(playlists[i]['id'])
 
 
+
+
+
 def printPDF(playlist_id):
     print("Trying to export " + playlist_id + "...")
 
-    # 1st: get basic attributes of playlist, like name
-    playlist_attributes_status = api.get_single_playlist(playlist_id)['status']
-    playlist_attributes = api.get_single_playlist(playlist_id)['content']
+    playlist_attributes = api.get_single_playlist(playlist_id)
+    playlist_name = playlist_attributes['name']
+    playlist_url = playlist_attributes['url']
+    playlist_hits = api.get_playlist_total_hits(playlist_id)
 
-    playlist_name = ''
-    playlist_url = ''
-    playlist_hits = None
-
-    # check if API call worked
-    if playlist_attributes_status == 200:
-        playlist_name = playlist_attributes['name']
-        playlist_url = "https://cast.itunes.uni-muenchen.de/vod/playlists/" + playlist_id + ".html"
-
-        # 2nd: get number of hits for each video in playlist
-        playlist_hits_status = api.get_playlist_total_hits(playlist_id)['status']
-        playlist_hits = api.get_playlist_total_hits(playlist_id)['content']
-
-        # check if API call worked
-        if playlist_hits_status == 200:
-            print("   ...name: " + playlist_name)
-            pdf.printStatistics('export_pdf/' + playlist_name, 'heute ;)', playlist_name, playlist_url, playlist_hits)
-        else:
-            print(
-                "Error while fetching API. Calling api.getStatisticsByPlaylist(" + playlist_id + ") returned HTTP-Status-Code: " + playlist_attributes_status)
-
-    else:
-        print(
-            "Error while fetching API. Calling api.getPlaylistAttributes(" + playlist_id + ") returned HTTP-Status-Code: " + playlist_attributes_status)
+    pdf.printStatistics(file_name=playlist_id, date='heute', playlist_title=playlist_name, playlist_url=playlist_url, hits=playlist_hits)
 
 
 def printAllPDF():
@@ -88,4 +67,5 @@ def printAllPDF():
         printPDF(playlists[i]['id'])
 
 
-printAllPDF()
+# printAllPDF()
+printPDF("EsflD5TvTE")

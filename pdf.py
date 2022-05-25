@@ -78,10 +78,10 @@ def printStatistics(file_name, date, playlist_title, playlist_url, hits):
     printPageHeader(pdf, playlist_title, playlist_url, date)
     printTableHeading(pdf)
 
-    for i in sorted(hits.keys(), reverse=True):
-        printTableRow(pdf, hits[i]['name'], str(hits[i]['hits_online']), str(hits[i]['hits_video']), str(hits[i]['hits_audio']))
+    for i in sorted(hits.keys(), reverse=False):
+        printTableRow(pdf, hits[i]['title'], str(hits[i]['hits_online']), str(hits[i]['hits_video']), str(hits[i]['hits_audio']))
     pdf.close()
-    pdf.output((file_name.encode("ascii", "ignore").decode())+'.pdf')
+    pdf.output('export_pdf/'+(file_name.encode("ascii", "ignore").decode())+'.pdf')
     print("   ...exported")
 
 

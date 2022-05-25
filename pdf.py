@@ -1,36 +1,9 @@
 from fpdf import FPDF
-
-data = {
-    0: {
-        'video': 'Vorlesung 1',
-        'hits_online': 10,
-        'hits_video': 4,
-        'hits_audio': 0
-    },
-    1: {
-        'video': 'Vorlesung 2',
-        'hits_online': 10,
-        'hits_video': 30,
-        'hits_audio': 0
-    },
-    2: {
-        'video': 'Vorlesung 3',
-        'hits_online': 10,
-        'hits_video': 4,
-        'hits_audio': 1
-    },
-    3: {
-        'video': 'Vorlesung 4',
-        'hits_online': 100,
-        'hits_video': 41,
-        'hits_audio': 10
-    }
-}
-
+import plot
 
 def printPageHeader(pdf, playlist_title, playlist_url, date):
     pdf.set_font('Helvetica', 'B', 20)
-    pdf.multi_cell(0, 8, playlist_title.encode("ascii", "ignore").decode(), align = 'L')
+    pdf.multi_cell(0, 8, playlist_title, align = 'L')
     pdf.ln()
 
     pdf.set_font('Helvetica', 'U', 10)
@@ -80,8 +53,15 @@ def printStatistics(file_name, date, playlist_title, playlist_url, hits):
 
     for i in sorted(hits.keys(), reverse=False):
         printTableRow(pdf, hits[i]['title'], str(hits[i]['hits_online']), str(hits[i]['hits_video']), str(hits[i]['hits_audio']))
+
+    # include plot
+    plot.plot(file_name, hits)
+    pdf.oversized_images = "DOWNSCALE"
+    pdf.image('export_pdf/tmp/'+file_name+'.png', x=30, y=pdf.get_y()+10, w=150)
+
+
     pdf.close()
-    pdf.output('export_pdf/'+(file_name.encode("ascii", "ignore").decode())+'.pdf')
+    pdf.output('export_pdf/'+file_name+'.pdf')
     print("   ...exported")
 
 

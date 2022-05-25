@@ -70,8 +70,19 @@ def clean_playlist_item(playlist_item):
     del playlist_item['rss_feeds']
     del playlist_item['owner']
 
+    playlist_item['name'] = clean_string(playlist_item['name'])
     playlist_item['url'] = PLAYLIST_ROOT + playlist_item['id'] + ".html"
     return playlist_item
+
+def clean_string(string: str):
+    # add chars that are crashing the export and need to be replaced (not the most elegant way... but german Umlaute need to stay!)
+    string = string.replace('–', '-')
+    string = string.replace('/', '-')
+    string = string.replace('\\', '-')
+    string = string.replace(':', ' - ')
+    string = string.replace('|', '-')
+    string = string.replace('\t', '-')
+    return string
 
 # get number of hits for specific format form cluttered LMU-Cast statistics response
 def get_total_hits_online(total_hits_by_format):
@@ -100,35 +111,9 @@ def get_all_playlists():
         p = clean_playlist_item(p)
     return playlists
 
-# TODO: delete this function
-def getPlaylists_OLD():
-    # make api call
-    r = requests.get(API_ROOT + "/playlists", headers=HEADERS)
-    status = r.status_code
-
-    if status == 200: # request returned status code 200
-        # parse response content as json
-        r_json = r.json()
-        content = {}
-
-        for i in range(len(r_json)):
-            content[i] = {
-                'id': r_json[i]['id'],
-                'name': r_json[i]['name']
-            }
-
-        return {
-            'status': r.status_code,
-            'content': content
-        }
-    else: # request returned other status code than 200
-        return {'status': r.status_code, 'content': None}
-
 # get playlist attributes by playlist id
 def get_single_playlist(playlist_id):
     return clean_playlist_item(apicall("/playlists/"+playlist_id))
-
-
 
 
 def get_playlist_total_hits(playlist_id):
@@ -136,7 +121,7 @@ def get_playlist_total_hits(playlist_id):
     videos = apicall("/playlist_statistics/"+playlist_id)
     for v in videos:
         hits[v['clip']['id']] = {
-            'title': v['clip']['title'],
+            'title': clean_string(v['clip']['title']),
             'hits_online': get_total_hits_online(v['total_hits_by_format']),
             'hits_video': get_total_hits_video(v['total_hits_by_format']),
             'hits_audio': get_total_hits_audio(v['total_hits_by_format'])
@@ -148,6 +133,6 @@ def get_playlist_total_hits(playlist_id):
 
 
 
-
+# print(get_all_playlists())
 # print(get_single_playlist("EsflD5TvTE"))
 # print(get_playlist_total_hits("EsflD5TvTE"))

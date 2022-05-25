@@ -1,5 +1,6 @@
 import api
 import pdf
+import plot
 
 # import pprint
 # pp = pprint.PrettyPrinter(indent=4)
@@ -56,16 +57,18 @@ def printPDF(playlist_id):
     playlist_url = playlist_attributes['url']
     playlist_hits = api.get_playlist_total_hits(playlist_id)
 
-    pdf.printStatistics(file_name=playlist_id, date='heute', playlist_title=playlist_name, playlist_url=playlist_url, hits=playlist_hits)
+    pdf.printStatistics(file_name=playlist_name, date='heute', playlist_title=playlist_name, playlist_url=playlist_url, hits=playlist_hits)
 
 
 def printAllPDF():
-    playlists = api.get_all_playlists()['content']
+    playlists = api.get_all_playlists()
     print("Going to export " + str(len(playlists)) + " PDFs...")
 
     for i in playlists:
-        printPDF(playlists[i]['id'])
+        printPDF(i['id'])
 
 
-# printAllPDF()
-printPDF("EsflD5TvTE")
+printAllPDF()
+# printPDF("EsflD5TvTE")
+
+# plot.plot('hNYTXTtFGq', api.get_playlist_total_hits('hNYTXTtFGq'))

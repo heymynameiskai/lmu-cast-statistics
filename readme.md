@@ -1,7 +1,6 @@
 # LMU Cast Statistics Generator
 This Python script adds the missing (or broken) statistics export to LMU Cast. Run this script with your personal session auth cookie locally to export one PDF document for each playlist in your LMU Cast account. Each PDF document includes a table and a chart showing the number of watches per video per file format.
 
-
 ### Requirements & Installation
 Todo
 ...
@@ -16,22 +15,88 @@ Todo...
 
 
 # api.py
-All API-Calls are sending this header:
+## constants
+- `AUTH_COOKIE` Authentification Cookie for LMU Cast, importet from keys.py
+- `API_ROOT`
+- `HEADERS` all api calls are sending this default headers, including the `auth_cookie`
+- `PLAYLIST_ROOT` root of public playlist URLs
+
+## apicall( `endpoint` )
+**Arguments**
+- `endpoint` Endpoint of API that is to be called, e.g. `"/playlists"`
+
+**Process**
+Method tries to call API and checks HTTP-Status-Code of response
+
+**Return**
+- If HTTP-Status-Code is 200, method returns content of response
+- If HTTP-Status-Code is not 200, method prints out error message and quits
+
+## clean_playlist_item( `playlist_item` )
+**Arguments**
+- `playlist_item` JSON-object as returned by LMU-Cast-API, for example when calling `/playlists/<playlist_id>`. Note: this function takes a **single** item only, not a list of playlist-items like returned by `/playlists`.
+
+**Process**
+- Method removes all unnecessary values from playlist item.
+- Method adds public url of playlist to item
+
+**Return**
 ```yaml
 {
-  'Cookie': <auth_cookie>,
-  'Content-Type': 'application/json',
-  'Accept-Language': 'de-DE,de;q=0.9'
+  'id': '', # LMU-Cast id of playlist
+  'name': '', # public name of playlist
+  'iTunes_author': '', 
+  'iTunes_owner_name': '', 
+  'export_format_ids': ['online', 'audio_only', 'high_quality'], # MAYBE supported playlist formats ?
+  'allowed_format_ids': ['online', 'audio_only', 'high_quality'], # MAYBE formats published ?
+  'updated_at': '', 
+  'created_at': '', 
+  'clips_count': '', # number of videos in playlist 
+  'url': '' # public url to playlist
 }
 ```
-Make shure you have added your `auth_cookie` to `keys.py`.
-&nbsp;
-&nbsp;
-&nbsp;
+
+## get_total_hits_online( `total_hits_by_format` )
+**Arguments**
+- `total_hits_by_format` excerpt of json as returned by API_endpoint `/playlist_statistics/<playlist_id`
+```yaml
+# API is returning this
+{
+  'clip': {
+    'title': <title_of_video>,
+    'id': 0
+  },
+  'total_hits_by_format': [ # we need this element for method
+    {
+      'format': 'online',
+      'total_hits': 215
+    },
+    {
+      'format': 'audio_only',
+      'total_hits': 12
+    },
+    {
+      'format': 'high_quality',
+      'total_hits': 102
+    }
+  ],
+  'daily_hits_by_format': [
+    {
+      'format': 'online',
+      'daily_hits': { ... }
+    }
+  ]
+}
+```
+
+**Process & Return**
+- Method finds number of hits for requested format, e.g. online, and returns integer.
 
 
 
-## getPlaylists( )
+## get_all_playlist( )
+***AB HIER ÜBERARBEITEN*** 
+
 _Returns all playlists of user logged in._
 
 **Request**

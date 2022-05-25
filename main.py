@@ -1,14 +1,13 @@
 import api
 import pdf
 
-
 # import pprint
 # pp = pprint.PrettyPrinter(indent=4)
 
 def tablePrintHits(playlist_id):
     # 1st: get basic attributes of playlist, like name
-    playlist_attributes_status = api.getPlaylistAttributes(playlist_id)['status']
-    playlist_attributes = api.getPlaylistAttributes(playlist_id)['content']
+    playlist_attributes_status = api.get_single_playlist(playlist_id)['status']
+    playlist_attributes = api.get_single_playlist(playlist_id)['content']
 
     # check if API call worked
     if playlist_attributes_status == 200:
@@ -23,8 +22,8 @@ def tablePrintHits(playlist_id):
             "Error while fetching API. Calling api.getPlaylistAttributes(" + playlist_id + ") returned HTTP-Status-Code: " + playlist_attributes_status)
 
     # 2nd: get number of hits for each video in playlist
-    playlist_hits_status = api.getStatisticsByPlaylist(playlist_id)['status']
-    playlist_hits = api.getStatisticsByPlaylist(playlist_id)['content']
+    playlist_hits_status = api.get_playlist_total_hits(playlist_id)['status']
+    playlist_hits = api.get_playlist_total_hits(playlist_id)['content']
 
     # check if API call worked
     if playlist_hits_status == 200:
@@ -42,7 +41,7 @@ def tablePrintHits(playlist_id):
 
 
 def printAllStatistics():
-    playlists = api.getPlaylists()['content']
+    playlists = api.get_all_playlists()['content']
 
     for i in playlists:
         tablePrintHits(playlists[i]['id'])
@@ -52,8 +51,8 @@ def printPDF(playlist_id):
     print("Trying to export " + playlist_id + "...")
 
     # 1st: get basic attributes of playlist, like name
-    playlist_attributes_status = api.getPlaylistAttributes(playlist_id)['status']
-    playlist_attributes = api.getPlaylistAttributes(playlist_id)['content']
+    playlist_attributes_status = api.get_single_playlist(playlist_id)['status']
+    playlist_attributes = api.get_single_playlist(playlist_id)['content']
 
     playlist_name = ''
     playlist_url = ''
@@ -65,8 +64,8 @@ def printPDF(playlist_id):
         playlist_url = "https://cast.itunes.uni-muenchen.de/vod/playlists/" + playlist_id + ".html"
 
         # 2nd: get number of hits for each video in playlist
-        playlist_hits_status = api.getStatisticsByPlaylist(playlist_id)['status']
-        playlist_hits = api.getStatisticsByPlaylist(playlist_id)['content']
+        playlist_hits_status = api.get_playlist_total_hits(playlist_id)['status']
+        playlist_hits = api.get_playlist_total_hits(playlist_id)['content']
 
         # check if API call worked
         if playlist_hits_status == 200:
@@ -82,7 +81,7 @@ def printPDF(playlist_id):
 
 
 def printAllPDF():
-    playlists = api.getPlaylists()['content']
+    playlists = api.get_all_playlists()['content']
     print("Going to export " + str(len(playlists)) + " PDFs...")
 
     for i in playlists:

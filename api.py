@@ -79,6 +79,7 @@ def clean_string(string: str):
     string = string.replace('–', '-')
     string = string.replace('/', '-')
     string = string.replace('\\', '-')
+    string = string.replace('\x84', '')
     string = string.replace(':', ' - ')
     string = string.replace('|', '-')
     string = string.replace('\t', '-')

@@ -1,5 +1,6 @@
 # secure files which must not be commited
 keys.py
+auth.py
 
 # temp and export files which should not be comitted
 export_pdf/

@@ -61,3 +61,4 @@ def plot(playlist_id, statistics):
     plt.subplots_adjust(bottom=0.5)
     plt.xticks(rotation=90)
     plt.savefig('export_pdf/tmp/'+playlist_id+'.png', format='png', dpi=300)
+    plt.close('all')

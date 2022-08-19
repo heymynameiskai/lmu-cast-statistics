@@ -59,7 +59,6 @@ def printPDF(playlist_id):
 
     pdf.printStatistics(file_name=playlist_name, date='heute', playlist_title=playlist_name, playlist_url=playlist_url, hits=playlist_hits)
 
-
 def printAllPDF():
     playlists = api.get_all_playlists()
     print("Going to export " + str(len(playlists)) + " PDFs...")
@@ -68,7 +67,7 @@ def printAllPDF():
         printPDF(i['id'])
 
 
-# printAllPDF()
-printPDF("JsSFM23oqr")
+printAllPDF()
+# printPDF("JsSFM23oqr")
 
 # plot.plot('hNYTXTtFGq', api.get_playlist_total_hits('hNYTXTtFGq'))

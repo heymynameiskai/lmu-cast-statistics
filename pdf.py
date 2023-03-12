@@ -44,25 +44,28 @@ def printLastRow(pdf):
     pdf.cell(25, 0, '', border = 'BLR')
 
 
-
 def printStatistics(file_name, date, playlist_title, playlist_url, hits):
+    # generate pdf and plot for given playlist data
     pdf = FPDF()
     pdf.add_page()
     printPageHeader(pdf, playlist_title, playlist_url, date)
     printTableHeading(pdf)
 
     for i in sorted(hits.keys(), reverse=False):
-        printTableRow(pdf, hits[i]['title'], str(hits[i]['hits_online']), str(hits[i]['hits_video']), str(hits[i]['hits_audio']))
+        printTableRow(pdf, hits[i]['title'].encode('latin-1', 'replace').decode('latin-1')[:66], str(hits[i]['hits_online']), str(hits[i]['hits_video']), str(hits[i]['hits_audio']))
+
+    if (int((len(hits)/15)%2)): # only add page if there are more than 16 rows on last page
+        pdf.add_page()
 
     # include plot
     plot.plot(file_name, hits)
     pdf.oversized_images = "DOWNSCALE"
-    pdf.image('export_pdf/tmp/'+file_name+'.png', x=30, y=pdf.get_y()+10, w=150)
+    pdf.image('export_pdf/tmp/'+file_name+'.png', x=0, y=pdf.get_y()+3, w=210)
 
 
     pdf.close()
     pdf.output('export_pdf/'+file_name+'.pdf')
-    print("   ...exported")
+    print("   ...fertig")
 
 
 

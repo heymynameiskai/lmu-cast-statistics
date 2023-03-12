@@ -43,12 +43,9 @@ def plot(playlist_id, statistics):
         online_video_sum.append(int(statistics[k]['hits_online']) + int(statistics[k]['hits_video']))
 
 
-
-
-
-    
     # plot
-    fig, ax = plt.subplots()
+    # fig, ax = plt.subplots()
+    (fig, ax) = plt.subplots(figsize=(10, 7))
 
     ax.bar(labels, online, label='Online', color='#0099ff')
     ax.bar(labels, video, bottom=online, label='Video', color='#33cc33')
@@ -59,6 +56,13 @@ def plot(playlist_id, statistics):
     ax.legend()
 
     plt.subplots_adjust(bottom=0.5)
-    plt.xticks(rotation=90)
+    plt.xticks(rotation=90, fontsize=8)
+    # # TODO
+    # length = len(statistics)
+    # stop = length - length*0.07 + 0.7
+    #
+    # print(length, stop)
+    #
+    # plt.xlim(-0.5, stop) # this removes the gap between the bars and the y-axis
     plt.savefig('export_pdf/tmp/'+playlist_id+'.png', format='png', dpi=300)
     plt.close('all')

@@ -5,7 +5,7 @@ import plot
 # import pprint
 # pp = pprint.PrettyPrinter(indent=4)
 
-def tablePrintHits(playlist_id):
+def tablePrintHits(playlist_id): # THIS DOES NOT GENERATE PFDS, BUT PRINT DATA IN TERMINAL OUTPUT
     # 1st: get basic attributes of playlist, like name
     playlist_attributes_status = api.get_single_playlist(playlist_id)['status']
     playlist_attributes = api.get_single_playlist(playlist_id)['content']
@@ -21,6 +21,8 @@ def tablePrintHits(playlist_id):
     else:
         print(
             "Error while fetching API. Calling api.getPlaylistAttributes(" + playlist_id + ") returned HTTP-Status-Code: " + playlist_attributes_status)
+
+
 
     # 2nd: get number of hits for each video in playlist
     playlist_hits_status = api.get_playlist_total_hits(playlist_id)['status']
@@ -39,6 +41,9 @@ def tablePrintHits(playlist_id):
     else:
         print(
             "Error while fetching API. Calling api.getStatisticsByPlaylist(" + playlist_id + ") returned HTTP-Status-Code: " + playlist_attributes_status)
+
+
+
 def printAllStatistics():
     playlists = api.get_all_playlists()['content']
 
@@ -67,7 +72,7 @@ def printAllPDF():
         printPDF(i['id'])
 
 
-printAllPDF()
+# printAllPDF()
 # printPDF("JsSFM23oqr")
 
 # plot.plot('hNYTXTtFGq', api.get_playlist_total_hits('hNYTXTtFGq'))
